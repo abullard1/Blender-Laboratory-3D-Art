@@ -8,11 +8,7 @@ Showcase of a little 3D laboratory scene that I made in Blender a while back.
  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /
 /__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/_
 
-	-------- Blender File Download Google Drive Link --------
-
 https://drive.google.com/file/d/1mNDYZVj2DkLJylEB58kQlK6AWmATK1Kf/view?usp=drive_link 
-
-	-------- Blender File Download Google Drive Link --------
 
 /__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/__\/_
 \  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\ 
