@@ -1,5 +1,5 @@
 # Blender-Laboratory-3D-Art
-Showcase of a little 3D laboratory scene that I made in Blender a while back.
+Showcase of a little 3D laboratory scene that I made in Blender and Substance Painter a while back.
 
 ## Preview
 <p align="left">
